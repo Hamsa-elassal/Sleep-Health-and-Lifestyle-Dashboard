@@ -2,7 +2,7 @@
 **Because even data scientists need beauty sleep!**
 
 Ever wondered what keeps you tossing and turning at night? Or why your co-worker who runs marathons sleeps like a baby while you’re counting sheep? Enter the **Sleep Health and Lifestyle Dashboard**, your go-to tool for exploring the wild, dreamy world of sleep patterns and lifestyle choices.  
-[Sleep Health Dashboard](./sleep_health_dashboard.png)
+![Sleep Health and Lifestyle Dashboard](sleep%20health%20and%20lifestyle%20tableau.PNG)
 With data from 374 night owls, early birds, and everyone in between, this dashboard spills the tea (or chamomile) on how stress, physical activity, BMI, gender, and even occupation affect sleep quality and duration.  
 
 ---
